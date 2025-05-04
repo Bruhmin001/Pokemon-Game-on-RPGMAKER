@@ -1,0 +1,37 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[048] # Grassy Path
+Land,21
+    15,CHINGLING,5
+    15,KRICKETOT,2,4
+    15,POOCHYENA,2,4
+    15,PSYDUCK,2,4
+    15,RATTATA,2,4
+    8,COTTONEE,5
+    7,DARUMAKA,5
+LandNight,21
+    15,CHINGLING,5
+    15,KRICKETOT,2,4
+    15,POOCHYENA,2,4
+    15,PSYDUCK,2,4
+    15,RATTATA_1,2,4
+    8,COTTONEE,5
+    7,DARUMAKA,5
+#-------------------------------
+[085] # Forest
+Land,21
+    15,SNOM,10,13
+    15,WURMPLE,10,13
+    15,CUTIEFLY,10,13
+    15,MANKEY,10,13
+    15,PUMPKABOO,10,13
+    8,TAILLOW,10,13
+    7,RALTS,10,13
+LandNight,21
+    15,SNOM,10,13
+    15,WURMPLE,10,13
+    15,CUTIEFLY,10,13
+    15,MANKEY,10,13
+    15,PUMPKABOO,10,13
+    8,TAILLOW,10,13
+    7,RALTS,10,13

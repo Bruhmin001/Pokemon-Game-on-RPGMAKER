@@ -51,7 +51,7 @@ Habitat = Grassland
 Category = Seed
 Pokedex = To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.
 Generation = 1
-Evolutions = VENUSAUR,Level,32
+Evolutions = VENUSAUR,Level,36
 #-------------------------------
 [VENUSAUR]
 Name = Venusaur
@@ -4073,7 +4073,7 @@ Habitat = Grassland
 Category = Leaf
 Pokedex = A Bayleef's neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.
 Generation = 2
-Evolutions = MEGANIUM,Level,32
+Evolutions = MEGANIUM,Level,36
 #-------------------------------
 [MEGANIUM]
 Name = Meganium
@@ -4126,7 +4126,7 @@ Habitat = Grassland
 Category = Fire Mouse
 Pokedex = It flares flames from its back to protect itself. The fire burns vigorously if the Pokémon is angry. When it is tired, it sputters with incomplete combustion.
 Generation = 2
-Evolutions = QUILAVA,Level,14
+Evolutions = QUILAVA,Level,16
 #-------------------------------
 [QUILAVA]
 Name = Quilava
@@ -4204,7 +4204,7 @@ Habitat = WatersEdge
 Category = Big Jaw
 Pokedex = Despite its small body, Totodile's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause serious injury.
 Generation = 2
-Evolutions = CROCONAW,Level,18
+Evolutions = CROCONAW,Level,16
 #-------------------------------
 [CROCONAW]
 Name = Croconaw
@@ -4230,7 +4230,7 @@ Habitat = WatersEdge
 Category = Big Jaw
 Pokedex = Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.
 Generation = 2
-Evolutions = FERALIGATR,Level,30
+Evolutions = FERALIGATR,Level,36
 #-------------------------------
 [FERALIGATR]
 Name = Feraligatr
@@ -10286,7 +10286,7 @@ Shape = Quadruped
 Category = Tiny Leaf
 Pokedex = Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.
 Generation = 4
-Evolutions = GROTLE,Level,18
+Evolutions = GROTLE,Level,16
 #-------------------------------
 [GROTLE]
 Name = Grotle
@@ -10311,7 +10311,7 @@ Shape = Quadruped
 Category = Grove
 Pokedex = It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.
 Generation = 4
-Evolutions = TORTERRA,Level,32
+Evolutions = TORTERRA,Level,36
 #-------------------------------
 [TORTERRA]
 Name = Torterra
@@ -10361,7 +10361,7 @@ Shape = BipedalTail
 Category = Chimp
 Pokedex = It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.
 Generation = 4
-Evolutions = MONFERNO,Level,14
+Evolutions = MONFERNO,Level,16
 #-------------------------------
 [MONFERNO]
 Name = Monferno
@@ -13036,7 +13036,7 @@ Shape = BipedalTail
 Category = Grass Snake
 Pokedex = They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.
 Generation = 5
-Evolutions = SERVINE,Level,17
+Evolutions = SERVINE,Level,16
 #-------------------------------
 [SERVINE]
 Name = Servine
@@ -13111,7 +13111,7 @@ Shape = Quadruped
 Category = Fire Pig
 Pokedex = It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.
 Generation = 5
-Evolutions = PIGNITE,Level,17
+Evolutions = PIGNITE,Level,16
 #-------------------------------
 [PIGNITE]
 Name = Pignite
@@ -13186,7 +13186,7 @@ Shape = BipedalTail
 Category = Sea Otter
 Pokedex = The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade.
 Generation = 5
-Evolutions = DEWOTT,Level,17
+Evolutions = DEWOTT,Level,16
 #-------------------------------
 [DEWOTT]
 Name = Dewott
@@ -18756,7 +18756,7 @@ Shape = Winged
 Category = Grass Quill
 Pokedex = It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.
 Generation = 7
-Evolutions = DARTRIX,Level,17
+Evolutions = DARTRIX,Level,16
 #-------------------------------
 [DARTRIX]
 Name = Dartrix
@@ -18781,7 +18781,7 @@ Shape = Winged
 Category = Blade Quill
 Pokedex = A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle.
 Generation = 7
-Evolutions = DECIDUEYE,Level,34
+Evolutions = DECIDUEYE,Level,36
 #-------------------------------
 [DECIDUEYE]
 Name = Decidueye
@@ -18831,7 +18831,7 @@ Shape = Quadruped
 Category = Fire Cat
 Pokedex = Its coat regrows twice a year. When the time comes, Litten sets its own body on fire and burns away the old fur.
 Generation = 7
-Evolutions = TORRACAT,Level,17
+Evolutions = TORRACAT,Level,16
 #-------------------------------
 [TORRACAT]
 Name = Torracat
@@ -18856,7 +18856,7 @@ Shape = Quadruped
 Category = Fire Cat
 Pokedex = It can act spoiled if it grows close to its Trainer. A powerful Pokémon, its sharp claws can leave its Trainer's whole body covered in scratches.
 Generation = 7
-Evolutions = INCINEROAR,Level,34
+Evolutions = INCINEROAR,Level,36
 #-------------------------------
 [INCINEROAR]
 Name = Incineroar
@@ -18906,7 +18906,7 @@ Shape = Finned
 Category = Sea Lion
 Pokedex = This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.
 Generation = 7
-Evolutions = BRIONNE,Level,17
+Evolutions = BRIONNE,Level,16
 #-------------------------------
 [BRIONNE]
 Name = Brionne
@@ -18931,7 +18931,7 @@ Shape = Finned
 Category = Pop Star
 Pokedex = It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.
 Generation = 7
-Evolutions = PRIMARINA,Level,34
+Evolutions = PRIMARINA,Level,36
 #-------------------------------
 [PRIMARINA]
 Name = Primarina
@@ -20995,7 +20995,7 @@ Shape = BipedalTail
 Category = Beat
 Pokedex = When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent.
 Generation = 8
-Evolutions = RILLABOOM,Level,35
+Evolutions = RILLABOOM,Level,36
 #-------------------------------
 [RILLABOOM]
 Name = Rillaboom
@@ -21070,7 +21070,7 @@ Shape = BipedalTail
 Category = Rabbit
 Pokedex = It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.
 Generation = 8
-Evolutions = CINDERACE,Level,35
+Evolutions = CINDERACE,Level,36
 #-------------------------------
 [CINDERACE]
 Name = Cinderace
@@ -21145,7 +21145,7 @@ Shape = BipedalTail
 Category = Water Lizard
 Pokedex = A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.
 Generation = 8
-Evolutions = INTELEON,Level,35
+Evolutions = INTELEON,Level,36
 #-------------------------------
 [INTELEON]
 Name = Inteleon

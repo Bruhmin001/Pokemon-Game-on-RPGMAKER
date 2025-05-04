@@ -1803,7 +1803,7 @@ Pokedex = It summons the dead with its dreamy dancing. From their malice, it dra
 Abilities = OWNTEMPO
 HiddenAbilities = OWNTEMPO
 Flags = InheritFormFromMother
-Evolutions = LYCANROC,LevelEvening,25
+Evolutions = LYCANROC,Level,25
 #-------------------------------
 [LYCANROC,1]
 FormName = Midnight Form

@@ -1,0 +1,31 @@
+#-------------------------------
+[TAMER,Liam]
+Pokemon = SMEARGLE,3
+	Moves = VINEWHIP,WATERGUN,EMBER,FAKEOUT
+#-------------------------------
+[CAMPER,Joe]
+Pokemon = POOCHYENA,10
+Pokemon = RATTATA,11
+#-------------------------------
+[YOUNGSTER,Test]
+Pokemon = DEWPIDER,12
+Pokemon = TINKATINK,12
+Pokemon = ZORUA_1,12
+	Moves = ASTONISH,TAILWHIP,GROWL
+#-------------------------------
+[BUGCATCHER,Walter]
+Pokemon = BEEDRILL,14
+Pokemon = BUTTERFREE,14
+#-------------------------------
+[BUGCATCHER,Jesse]
+Pokemon = BEAUTIFLY,14
+Pokemon = DUSTOX,14
+#-------------------------------
+[CAMPER,Max]
+Pokemon = PANSAGE,14
+Pokemon = MACHOP,14
+#-------------------------------
+[BUGCATCHER,Trevor]
+Pokemon = YANMA,15
+	Moves = SILVERWIND,SONICBOOM,AIRCUTTER
+

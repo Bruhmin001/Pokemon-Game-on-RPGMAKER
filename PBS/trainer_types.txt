@@ -156,6 +156,7 @@ BaseMoney = 48
 [TAMER]
 Name = Tamer
 Gender = Male
+SkillLevel = 100
 BaseMoney = 40
 #-------------------------------
 [BLACKBELT]
@@ -172,6 +173,7 @@ BaseMoney = 24
 Name = Camper
 Gender = Male
 BaseMoney = 16
+SkillLevel = 30
 #-------------------------------
 [PICNICKER]
 Name = Picnicker

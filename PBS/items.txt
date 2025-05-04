@@ -1363,6 +1363,7 @@ Price = 3000
 SellPrice = 2000
 BPPrice = 15
 Flags = Fling_10
+Consumable = False
 Description = An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
 #-------------------------------
 [FLAMEORB]
@@ -5255,6 +5256,7 @@ NamePlural = Oran Berries
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
+Consumable = False
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_POISON_80
 Description = It may be used or held by a Pokémon to heal the user by just 10 HP.

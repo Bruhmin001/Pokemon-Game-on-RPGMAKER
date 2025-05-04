@@ -24,6 +24,8 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Route1 (32) - Town1 (22)
+32,West,13,22,East,0
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
@@ -38,5 +40,7 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route1 (32) - Town1 (22)
-32,West,13,22,East,0
+# Forest Town (76) - Grassy Path (48)
+76,South,24,48,North,0
+# Forest (85) - Forest Town (76)
+85,South,5,76,North,0

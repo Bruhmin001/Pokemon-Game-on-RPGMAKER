@@ -1,0 +1,528 @@
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Tamer Liam!"
+"Tamer Liam sent out Smeargle!"
+"Go! Litleo!"
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+===== Round 1 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 9% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     +  9: damaging move (predicted damage 8 = 36% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 9% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out against Litleo (0)...
+     + 15: function code modifier (against target)
+     +  5: damaging move (predicted damage 5 = 22% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Move choices for Smeargle (1):
+   *  12.2% to use Vine Whip (target 0): score 112
+   *  26.5% to use Water Gun (target 0): score 119
+   *  12.2% to use Ember (target 0): score 112
+   *  49.0% to use Fake Out (target 0): score 130
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Fake Out
+"The opposing Smeargle used Fake Out!"
+[HP change] Litleo lost 4 HP (22 -> 18)
+[Use move] Litleo (0) used Ember
+"Litleo flinched and couldn't move!"
+[Move failed] Litleo flinched
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 11% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     + 11: damaging move (predicted damage 8 = 44% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 11% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Move choices for Smeargle (1):
+   *  27.1% to use Vine Whip (target 0): score 112
+   *  45.8% to use Water Gun (target 0): score 121
+   *  27.1% to use Ember (target 0): score 112
+   *   0.0% to use Fake Out: score 20
+   => will use Vine Whip (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Vine Whip
+"The opposing Smeargle used Vine Whip!"
+[HP change] Litleo lost 1 HP (18 -> 17)
+"It's not very effective..."
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Smeargle lost 8 HP (20 -> 12)
+
+[End of round 2]
+
+===== Round 3 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 11% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     + 11: damaging move (predicted damage 8 = 47% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 11% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Move choices for Smeargle (1):
+   *  27.1% to use Vine Whip (target 0): score 112
+   *  45.8% to use Water Gun (target 0): score 121
+   *  27.1% to use Ember (target 0): score 112
+   *   0.0% to use Fake Out: score 20
+   => will use Ember (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Ember
+"The opposing Smeargle used Ember!"
+[HP change] Litleo lost 2 HP (17 -> 15)
+"It's not very effective..."
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Smeargle lost 7 HP (12 -> 5)
+
+[End of round 3]
+
+===== Round 4 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  3: damaging move (predicted damage 2 = 13% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     + 13: damaging move (predicted damage 8 = 53% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  3: damaging move (predicted damage 2 = 13% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Move choices for Smeargle (1):
+   *  26.1% to use Vine Whip (target 0): score 113
+   *  47.8% to use Water Gun (target 0): score 123
+   *  26.1% to use Ember (target 0): score 113
+   *   0.0% to use Fake Out: score 20
+   => will use Water Gun (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Water Gun
+"The opposing Smeargle used Water Gun!"
+[HP change] Litleo lost 7 HP (15 -> 8)
+"It's super effective!"
+[HP change] Litleo gained 10 HP (8 -> 18)
+"Litleo restored a little HP using its Oran Berry!"
+[Item consumed] Litleo consumed its held Oran Berry
+[Use move] Litleo (0) used Ember
+"Litleo used Ember!"
+[HP change] The opposing Smeargle lost 5 HP (5 -> 0)
+"The opposing Smeargle fainted!"
+"Litleo got {2} Exp. Points!"
+"Litleo grew to Lv. 6!"
+
+===== Player won =====
+
+"You defeated Tamer Liam!"
+"..."
+
+"You got $200 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Tamer Liam!"
+"Tamer Liam sent out Smeargle!"
+"Go! Litleo!"
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+===== Round 1 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 9% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     +  9: damaging move (predicted damage 8 = 36% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 9% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out against Litleo (0)...
+     + 15: function code modifier (against target)
+     +  5: damaging move (predicted damage 5 = 22% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Move choices for Smeargle (1):
+   *  12.2% to use Vine Whip (target 0): score 112
+   *  26.5% to use Water Gun (target 0): score 119
+   *  12.2% to use Ember (target 0): score 112
+   *  49.0% to use Fake Out (target 0): score 130
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Fake Out
+"The opposing Smeargle used Fake Out!"
+[HP change] Litleo lost 4 HP (22 -> 18)
+[Use move] Litleo (0) used Tackle
+"Litleo flinched and couldn't move!"
+[Move failed] Litleo flinched
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 11% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     + 11: damaging move (predicted damage 8 = 44% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 11% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Move choices for Smeargle (1):
+   *  27.1% to use Vine Whip (target 0): score 112
+   *  45.8% to use Water Gun (target 0): score 121
+   *  27.1% to use Ember (target 0): score 112
+   *   0.0% to use Fake Out: score 20
+   => will use Water Gun (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Water Gun
+"The opposing Smeargle used Water Gun!"
+[HP change] Litleo lost 8 HP (18 -> 10)
+"It's super effective!"
+[HP change] Litleo gained 10 HP (10 -> 20)
+"Litleo restored a little HP using its Oran Berry!"
+[Item consumed] Litleo consumed its held Oran Berry
+[Use move] Litleo (0) used Tackle
+"Litleo used Tackle!"
+[HP change] The opposing Smeargle lost 7 HP (20 -> 13)
+
+[End of round 2]
+
+===== Round 3 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 10% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     + 10: damaging move (predicted damage 8 = 40% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 10% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Move choices for Smeargle (1):
+   *  28.0% to use Vine Whip (target 0): score 112
+   *  44.0% to use Water Gun (target 0): score 120
+   *  28.0% to use Ember (target 0): score 112
+   *   0.0% to use Fake Out: score 20
+   => will use Water Gun (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Water Gun
+"The opposing Smeargle used Water Gun!"
+[HP change] Litleo lost 8 HP (20 -> 12)
+"It's super effective!"
+[Use move] Litleo (0) used Tackle
+"Litleo used Tackle!"
+[HP change] The opposing Smeargle lost 7 HP (13 -> 6)
+
+[End of round 3]
+
+===== Round 4 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  4: damaging move (predicted damage 2 = 16% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     + 16: damaging move (predicted damage 8 = 66% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  4: damaging move (predicted damage 2 = 16% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Move choices for Smeargle (1):
+   *  24.4% to use Vine Whip (target 0): score 114
+   *  51.1% to use Water Gun (target 0): score 126
+   *  24.4% to use Ember (target 0): score 114
+   *   0.0% to use Fake Out: score 20
+   => will use Vine Whip (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Vine Whip
+"The opposing Smeargle used Vine Whip!"
+[HP change] Litleo lost 1 HP (12 -> 11)
+"It's not very effective..."
+[Use move] Litleo (0) used Tackle
+"Litleo used Tackle!"
+[HP change] The opposing Smeargle lost 6 HP (6 -> 0)
+"The opposing Smeargle fainted!"
+"Litleo got {2} Exp. Points!"
+"Litleo grew to Lv. 6!"
+
+===== Player won =====
+
+"You defeated Tamer Liam!"
+"..."
+
+"You got $200 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Tamer Liam!"
+"Tamer Liam sent out Smeargle!"
+"Go! Litleo!"
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+===== Round 1 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 9% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     +  9: damaging move (predicted damage 8 = 36% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 9% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out against Litleo (0)...
+     + 15: function code modifier (against target)
+     +  5: damaging move (predicted damage 5 = 22% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Vine Whip (target 0): score 112
+   *   0.0% to use Water Gun (target 0): score 119
+   *   0.0% to use Ember (target 0): score 112
+   * 100.0% to use Fake Out (target 0): score 130
+   => will use Fake Out (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Fake Out
+"The opposing Smeargle used Fake Out!"
+[HP change] Litleo lost 4 HP (22 -> 18)
+[Use move] Litleo (0) used Tackle
+"Litleo flinched and couldn't move!"
+[Move failed] Litleo flinched
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 11% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     + 11: damaging move (predicted damage 8 = 44% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 11% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Vine Whip (target 0): score 112
+   * 100.0% to use Water Gun (target 0): score 121
+   *   0.0% to use Ember (target 0): score 112
+   *   0.0% to use Fake Out: score 20
+   => will use Water Gun (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Water Gun
+"The opposing Smeargle used Water Gun!"
+[HP change] Litleo lost 8 HP (18 -> 10)
+"It's super effective!"
+[HP change] Litleo gained 10 HP (10 -> 20)
+"Litleo restored a little HP using its Oran Berry!"
+[Item consumed] Litleo consumed its held Oran Berry
+[Use move] Litleo (0) used Tackle
+"Litleo used Tackle!"
+[HP change] The opposing Smeargle lost 7 HP (20 -> 13)
+
+[End of round 2]
+
+===== Round 3 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 10% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     + 10: damaging move (predicted damage 8 = 40% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  2: damaging move (predicted damage 2 = 10% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Vine Whip (target 0): score 112
+   * 100.0% to use Water Gun (target 0): score 120
+   *   0.0% to use Ember (target 0): score 112
+   *   0.0% to use Fake Out: score 20
+   => will use Water Gun (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Water Gun
+"The opposing Smeargle used Water Gun!"
+[HP change] Litleo lost 8 HP (20 -> 12)
+"It's super effective!"
+[Use move] Litleo (0) used Tackle
+"Litleo used Tackle!"
+[HP change] The opposing Smeargle lost 7 HP (13 -> 6)
+
+[End of round 3]
+
+===== Round 4 =====
+
+[AI] Smeargle (1) is considering using Vine Whip against Litleo (0)...
+     +  4: damaging move (predicted damage 2 = 16% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Water Gun against Litleo (0)...
+     + 16: damaging move (predicted damage 8 = 66% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Ember against Litleo (0)...
+     +  4: damaging move (predicted damage 2 = 16% of target's HP)
+     + 10: prefer damaging moves (no foe party Pokémon left)
+[AI] Smeargle (1) is considering using Fake Out...
+     - 80: move will fail
+[AI] Move choices for Smeargle (1):
+   *   0.0% to use Vine Whip (target 0): score 114
+   * 100.0% to use Water Gun (target 0): score 126
+   *   0.0% to use Ember (target 0): score 114
+   *   0.0% to use Fake Out: score 20
+   => will use Water Gun (target 0)
+
+[Round order] The opposing Smeargle (1), Litleo (0)
+
+[Use move] The opposing Smeargle (1) used Water Gun
+"The opposing Smeargle used Water Gun!"
+[HP change] Litleo lost 8 HP (12 -> 4)
+[Midbattle Global] low HP music begins
+"It's super effective!"
+[Use move] Litleo (0) used Tackle
+"Litleo used Tackle!"
+[HP change] The opposing Smeargle lost 6 HP (6 -> 0)
+"The opposing Smeargle fainted!"
+"Litleo got {2} Exp. Points!"
+"Litleo grew to Lv. 6!"
+
+===== Player won =====
+
+"You defeated Tamer Liam!"
+"..."
+
+"You got $200 for winning!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Test!"
+"Youngster Test sent out Murkrow!"
+"Go! Crobat!"
+[Round order] Crobat (0), the opposing Murkrow (1)
+
+===== Round 1 =====
+
+[AI] Murkrow (1) is considering using Thunder Wave against Crobat (0)...
+     + 10: function code modifier (against target)
+[AI] Murkrow (1) is considering using Drill Peck against Crobat (0)...
+[AI] Murkrow (1) is considering using U-turn against Crobat (0)...
+[AI] Move choices for Murkrow (1):
+   *  43.3% to use Thunder Wave (target 0): score 110
+   *  28.4% to use Drill Peck (target 0): score 100
+   *  28.4% to use U-turn (target 0): score 100
+   => will use Thunder Wave (target 0)
+
+[Round order] Crobat (0), the opposing Murkrow (1)
+
+[Use move] Crobat (0) used Haze
+"Crobat used Haze!"
+"But it failed!"
+[Move failed] In function code ResetAllBattlersStatStages's def pbMoveFailed?
+[Use move] The opposing Murkrow (1) used Thunder Wave
+"The opposing Murkrow used Thunder Wave!"
+"Crobat is paralyzed! It may be unable to move!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Murkrow (1) is considering using Thunder Wave against Crobat (0)...
+     move will not affect Crobat (0)
+     - 80: move will fail
+[AI] Murkrow (1) is considering using Drill Peck against Crobat (0)...
+[AI] Murkrow (1) is considering using U-turn against Crobat (0)...
+[AI] Move choices for Murkrow (1):
+   *   0.0% to use Thunder Wave (target 0): score 20
+   *  50.0% to use Drill Peck (target 0): score 100
+   *  50.0% to use U-turn (target 0): score 100
+   => will use Drill Peck (target 0)
+
+[Round order] Crobat (0), the opposing Murkrow (1)
+
+[Use move] Crobat (0) used Haze
+"Crobat used Haze!"
+"But it failed!"
+[Move failed] In function code ResetAllBattlersStatStages's def pbMoveFailed?
+[Use move] The opposing Murkrow (1) used Drill Peck
+"The opposing Murkrow used Drill Peck!"
+[HP change] Crobat lost 3 HP (162 -> 159)
+
+[End of round 2]
+
+===== Round 3 =====
+
+[AI] Murkrow (1) is considering using Thunder Wave against Crobat (0)...
+     move will not affect Crobat (0)
+     - 80: move will fail
+[AI] Murkrow (1) is considering using Drill Peck against Crobat (0)...
+[AI] Murkrow (1) is considering using U-turn against Crobat (0)...
+[AI] Move choices for Murkrow (1):
+   *   0.0% to use Thunder Wave (target 0): score 20
+   *  50.0% to use Drill Peck (target 0): score 100
+   *  50.0% to use U-turn (target 0): score 100
+   => will use U-turn (target 0)
+
+[Round order] Crobat (0), the opposing Murkrow (1)
+
+[Use move] Crobat (0) used Bite
+"Crobat used Bite!"
+[HP change] The opposing Murkrow lost 21 HP (21 -> 0)
+"It's not very effective..."
+"The opposing Murkrow fainted!"
+"Crobat got {2} Exp. Points!"
+
+===== Player won =====
+
+"You defeated Youngster Test!"
