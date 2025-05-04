@@ -1,0 +1,7 @@
+[PARENTLETTER]
+Name = Parent's Letter
+NamePlural = Parent's Letters
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Letter signed by your parents, Essential to start your journey.
