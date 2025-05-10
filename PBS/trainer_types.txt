@@ -156,8 +156,8 @@ BaseMoney = 48
 [TAMER]
 Name = Tamer
 Gender = Male
-SkillLevel = 100
 BaseMoney = 40
+SkillLevel = 100
 #-------------------------------
 [BLACKBELT]
 Name = Black Belt

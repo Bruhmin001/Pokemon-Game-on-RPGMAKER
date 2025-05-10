@@ -1,31 +1,38 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [TAMER,Liam]
+LoseText = ...
 Pokemon = SMEARGLE,3
-	Moves = VINEWHIP,WATERGUN,EMBER,FAKEOUT
+    Moves = VINEWHIP,WATERGUN,EMBER,FAKEOUT
 #-------------------------------
 [CAMPER,Joe]
-Pokemon = POOCHYENA,10
-Pokemon = RATTATA,11
+LoseText = ...
+Pokemon = POOCHYENA,5
+Pokemon = RATTATA,6
 #-------------------------------
 [YOUNGSTER,Test]
-Pokemon = DEWPIDER,12
+LoseText = ...
 Pokemon = TINKATINK,12
 Pokemon = ZORUA_1,12
-	Moves = ASTONISH,TAILWHIP,GROWL
+    Form = 1
+    Moves = ASTONISH,TAILWHIP,GROWL
 #-------------------------------
 [BUGCATCHER,Walter]
-Pokemon = BEEDRILL,14
-Pokemon = BUTTERFREE,14
+LoseText = ...
+Pokemon = BEEDRILL,10
+Pokemon = BUTTERFREE,10
 #-------------------------------
 [BUGCATCHER,Jesse]
-Pokemon = BEAUTIFLY,14
-Pokemon = DUSTOX,14
+LoseText = ...
+Pokemon = BEAUTIFLY,10
+Pokemon = DUSTOX,10
 #-------------------------------
 [CAMPER,Max]
+LoseText = ...
 Pokemon = PANSAGE,14
 Pokemon = MACHOP,14
 #-------------------------------
 [BUGCATCHER,Trevor]
-Pokemon = YANMA,15
-	Moves = SILVERWIND,SONICBOOM,AIRCUTTER
-
+LoseText = ...
+Pokemon = YANMA,13
+    Moves = SILVERWIND,SONICBOOM,AIRCUTTER
