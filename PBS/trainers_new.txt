@@ -1,7 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [TAMER,Liam]
-LoseText = ...
+LoseText = Good job kid
 Pokemon = SMEARGLE,3
     Moves = VINEWHIP,WATERGUN,EMBER,FAKEOUT
 #-------------------------------
@@ -36,3 +36,19 @@ Pokemon = MACHOP,14
 LoseText = ...
 Pokemon = YANMA,13
     Moves = SILVERWIND,SONICBOOM,AIRCUTTER
+#-------------------------------
+[COOLTRAINER_M,Pierre]
+LoseText = ...
+Pokemon = KRICKETUNE,15
+    Moves = ROCKSMASH,FURYCUTTER,SWAGGER
+    AbilityIndex = 2
+    Item = BUGGEM
+Pokemon = FLAAFFY,15
+    Moves = CHARGEBEAM,THUNDERWAVE,VOLTSWITCH
+    Ability = STATIC
+    Item = EVIOLITE
+Pokemon = DRIFLOON,15
+    Moves = HEX,GUST,SELFDESTRUCT
+    Ability = UNBURDEN
+    Item = BERRYJUICE
+	

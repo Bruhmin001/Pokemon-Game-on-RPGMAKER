@@ -38,9 +38,11 @@
 41,South,6,45,North,0
 # Route 7 (47) - Battle Frontier (52)
 47,East,8,52,West,0
-# Route 8 (69) - Safari Zone outside (66)
-69,North,0,66,South,10
 # Forest Town (76) - Grassy Path (48)
 76,South,24,48,North,0
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
 # Forest (85) - Forest Town (76)
 85,South,5,76,North,0
+# Zoo (89) - Zoo Town (88)
+89,South,0,88,North,43
