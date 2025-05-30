@@ -51,4 +51,102 @@ Pokemon = DRIFLOON,15
     Moves = HEX,GUST,SELFDESTRUCT
     Ability = UNBURDEN
     Item = BERRYJUICE
+#-------------------------------
+[LEADER_Brock,Brock,1]
+Items = SUPERPOTION,SUPERPOTION
+LoseText = Very good.
+Pokemon = CROAGUNK,14
+    Moves = POISONJAB,BRICKBREAK,SUCKERPUNCH
+    AbilityIndex = 1
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = VULPIX,14
+    Moves = EMBER,HYPNOSIS,BABYDOLLEYES
+    AbilityIndex = 2
+    Gender = female
+    Item = HEATROCK
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,15
+    Moves = DRAGONPULSE,BULLDOZE,BIND,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    Ball = HEAVYBALL
+#-------------------------------
+[BEAUTY,Sunny,1]
+Items = SUPERPOTION,SUPERPOTION
+LoseText = Very good.
+Pokemon = PHANPY,14
+    Moves = STOMPINGTANTRUM,ICESHARD,ROCKTOMB,CHARM
+    AbilityIndex = 1
+    Gender = male
+    Item = BERRYJUICE
+    IV = 20,20,20,20,20,20
+Pokemon = TRUMBEAK,14
+    Moves = FURYATTACK,PLUCK,BULLETSEED,SCREECH
+    AbilityIndex = 1
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = PANCHAM,14
+    Moves = BRICKBREAK,AERIALACE,THUNDERPUNCH
+    AbilityIndex = 2
+    Item = SHARPBEAK
+    Gender = male
+Pokemon = PANPOUR,15
+    Moves = WATERPULSE,ICYWIND,FOCUSPUNCH,ACROBATICS
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+#-------------------------------
+[BEAUTY,Sunny,2]
+Items = SUPERPOTION,SUPERPOTION
+LoseText = Very good.
+Pokemon = PHANPY,14
+    Moves = STOMPINGTANTRUM,ICESHARD,ROCKTOMB,CHARM
+    AbilityIndex = 1
+    Gender = male
+    Item = BERRYJUICE
+    IV = 20,20,20,20,20,20
+Pokemon = TRUMBEAK,14
+    Moves = FURYATTACK,PLUCK,BULLETSEED,SCREECH
+    AbilityIndex = 1
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = PANCHAM,14
+    Moves = BRICKBREAK,AERIALACE,THUNDERPUNCH
+    AbilityIndex = 2
+    Item = SHARPBEAK
+    Gender = male
+Pokemon = PANSAGE,15
+    Moves = MAGICALLEAF,BITE,FOCUSPUNCH,ACROBATICS
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+#-------------------------------
+[BEAUTY,Sunny,3]
+Items = SUPERPOTION,SUPERPOTION
+LoseText = Very good.
+Pokemon = PHANPY,14
+    Moves = STOMPINGTANTRUM,ICESHARD,ROCKTOMB,CHARM
+    AbilityIndex = 1
+    Gender = male
+    Item = BERRYJUICE
+    IV = 20,20,20,20,20,20
+Pokemon = TRUMBEAK,14
+    Moves = FURYATTACK,PLUCK,BULLETSEED,SCREECH
+    AbilityIndex = 1
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = PANCHAM,14
+    Moves = BRICKBREAK,AERIALACE,THUNDERPUNCH
+    AbilityIndex = 2
+    Item = SHARPBEAK
+    Gender = male
+Pokemon = PANSEAR,15
+    Moves = FLAMEBURST,YAWN,FOCUSPUNCH,ACROBATICS
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+
+	
 	

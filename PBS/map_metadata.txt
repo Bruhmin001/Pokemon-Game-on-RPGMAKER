@@ -415,6 +415,8 @@ BattleBack = city
 Name = Bariony Town
 Outdoor = true
 ShowArea = true
+BattleBack = forest
+Environment = ForestGrass
 #-------------------------------
 [077]   # Starter Collection Center
 Name = Starter Collection Center
@@ -424,3 +426,18 @@ ShowArea = true
 Name = Parasaura Forest
 Outdoor = true
 ShowArea = true
+BattleBack = forest
+Environment = ForestGrass
+#-------------------------------
+[090]   # Clearing
+Name = Base Entrance
+Outdoor = true
+ShowArea = true
+BattleBack = forest
+Environment = ForestGrass
+#-------------------------------
+[091]   # Grotto
+Name = Parasaura Forest Depths
+Outdoor = true
+BattleBack = forest
+Environment = ForestGrass
