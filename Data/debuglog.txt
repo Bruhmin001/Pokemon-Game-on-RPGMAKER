@@ -526,3 +526,940 @@
 ===== Player won =====
 
 "You defeated Youngster Test!"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Beauty Sunny!"
+"Beauty Sunny sent out Phanpy!"
+"Go! Abc!"
+[Round order] Abc (0), the opposing Phanpy (1)
+
+===== Round 1 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 16: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  8: lowering the target's Attack by 2
+     + 42: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *   4.8% to use Rock Tomb (target 0): score 123
+   *  95.2% to use Charm (target 0): score 142
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Pound
+"Abc used Pound!"
+[HP change] The opposing Phanpy lost 6 HP (52 -> 46)
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (0 -> -2)
+"Abc's Attack harshly fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 14: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  4: lowering the target's Attack by 2
+     + 35: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *  20.8% to use Rock Tomb (target 0): score 121
+   *  79.2% to use Charm (target 0): score 135
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Mega Drain
+"Abc used Mega Drain!"
+[HP change] The opposing Phanpy lost 31 HP (46 -> 15)
+"It's super effective!"
+[HP change] The opposing Phanpy gained 20 HP (15 -> 35)
+"The opposing Phanpy restored its health using its Berry Juice!"
+[Item consumed] The opposing Phanpy consumed its held Berry Juice
+"The opposing Phanpy had its energy drained!"
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (-2 -> -4)
+"Abc's Attack harshly fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 12: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  2: lowering the target's Attack by 2
+     + 18: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *  10.9% to use Stomping Tantrum (target 0): score 107
+   *  17.4% to use Ice Shard (target 0): score 110
+   *  37.0% to use Rock Tomb (target 0): score 119
+   *  34.8% to use Charm (target 0): score 118
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Quick Attack
+"Abc used Quick Attack!"
+[HP change] The opposing Phanpy lost 3 HP (35 -> 32)
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (-4 -> -6)
+"Abc's Attack harshly fell!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 11: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     move will not affect Abc (0)
+     - 80: move will fail
+[AI] Move choices for Phanpy (1):
+   *  18.8% to use Stomping Tantrum (target 0): score 107
+   *  28.1% to use Ice Shard (target 0): score 110
+   *  53.1% to use Rock Tomb (target 0): score 118
+   *   0.0% to use Charm (target 0): score 20
+   => will use Rock Tomb (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Quick Attack
+"Abc used Quick Attack!"
+[HP change] The opposing Phanpy lost 10 HP (32 -> 22)
+"A critical hit!"
+[Use move] The opposing Phanpy (1) used Rock Tomb
+"The opposing Phanpy used Rock Tomb!"
+[HP change] Abc lost 12 HP (41 -> 29)
+[Stat change] Abc's Speed changed by -1 (0 -> -1)
+"Abc's Speed fell!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     + 10: damaging move (predicted damage 12 = 41% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 15: damaging move (predicted damage 18 = 62% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     lowering the target's Speed isn't worthwhile
+     + 11: damaging move (predicted damage 13 = 44% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     move will not affect Abc (0)
+     - 80: move will fail
+[AI] Move choices for Phanpy (1):
+   *  28.2% to use Stomping Tantrum (target 0): score 110
+   *  41.0% to use Ice Shard (target 0): score 115
+   *  30.8% to use Rock Tomb (target 0): score 111
+   *   0.0% to use Charm (target 0): score 20
+   => will use Ice Shard (target 0)
+
+[Round order] The opposing Phanpy (1), Abc (0)
+
+[Use move] The opposing Phanpy (1) used Ice Shard
+"The opposing Phanpy used Ice Shard!"
+[HP change] Abc lost 17 HP (29 -> 12)
+"It's super effective!"
+[Use move] Abc (0) used Mega Drain
+"Abc used Mega Drain!"
+[HP change] The opposing Phanpy lost 22 HP (22 -> 0)
+"It's super effective!"
+"The opposing Phanpy fainted!"
+"The opposing Phanpy had its energy drained!"
+[HP change] Abc gained 11 HP (12 -> 23)
+
+[End of round 5]
+"Beauty Sunny is about to send out Pansear. Will you switch your Pokémon?"
+"Beauty Sunny sent out Pansear!"
+
+===== Round 6 =====
+
+[AI] Pansear (1) is considering using Flame Burst against Abc (0)...
+     + 30: damaging move (predicted damage 33 = 143% of target's HP)
+     + 10: predicted to KO the target
+[AI] Pansear (1) is considering using Yawn against Abc (0)...
+     + 15: function code modifier (against target)
+[AI] Pansear (1) is considering using Focus Punch against Abc (0)...
+     + 15: function code modifier (against target)
+     + 30: damaging move (predicted damage 31 = 134% of target's HP)
+     + 10: predicted to KO the target
+[AI] Pansear (1) is considering using Acrobatics against Abc (0)...
+     + 26: damaging move (predicted damage 24 = 104% of target's HP)
+[AI] Move choices for Pansear (1):
+   *  24.1% to use Flame Burst (target 0): score 140
+   *   0.0% to use Yawn (target 0): score 115
+   *  75.9% to use Focus Punch (target 0): score 155
+   *   0.0% to use Acrobatics (target 0): score 126
+   => will use Focus Punch (target 0)
+
+[Round order] Abc (0), the opposing Pansear (1)
+
+"The opposing Pansear is tightening its focus!"
+[Use move] Abc (0) used Pound
+"Abc used Pound!"
+[HP change] The opposing Pansear lost 3 HP (41 -> 38)
+[Use move] The opposing Pansear (1) used Focus Punch
+"The opposing Pansear lost its focus and couldn't move!"
+[Move failed] In function code FailsIfUserDamagedThisTurn's def pbMoveFailed?
+
+[End of round 6]
+
+===== Round 7 =====
+
+[AI] Pansear (1) is considering using Flame Burst against Abc (0)...
+     + 30: damaging move (predicted damage 33 = 143% of target's HP)
+     + 10: predicted to KO the target
+[AI] Pansear (1) is considering using Yawn against Abc (0)...
+     + 15: function code modifier (against target)
+[AI] Pansear (1) is considering using Focus Punch against Abc (0)...
+     + 15: function code modifier (against target)
+     + 30: damaging move (predicted damage 31 = 134% of target's HP)
+     + 10: predicted to KO the target
+[AI] Pansear (1) is considering using Acrobatics against Abc (0)...
+     + 26: damaging move (predicted damage 24 = 104% of target's HP)
+[AI] Move choices for Pansear (1):
+   *  24.1% to use Flame Burst (target 0): score 140
+   *   0.0% to use Yawn (target 0): score 115
+   *  75.9% to use Focus Punch (target 0): score 155
+   *   0.0% to use Acrobatics (target 0): score 126
+   => will use Focus Punch (target 0)
+
+[Round order] Abc (0), the opposing Pansear (1)
+
+"The opposing Pansear is tightening its focus!"
+[Use move] Abc (0) used Quick Attack
+"Abc used Quick Attack!"
+[HP change] The opposing Pansear lost 3 HP (38 -> 35)
+[Use move] The opposing Pansear (1) used Focus Punch
+"The opposing Pansear lost its focus and couldn't move!"
+[Move failed] In function code FailsIfUserDamagedThisTurn's def pbMoveFailed?
+
+[End of round 7]
+
+===== Round 8 =====
+
+[AI] Pansear (1) is considering using Flame Burst against Abc (0)...
+     + 30: damaging move (predicted damage 33 = 143% of target's HP)
+     + 10: predicted to KO the target
+[AI] Pansear (1) is considering using Yawn against Abc (0)...
+     + 15: function code modifier (against target)
+[AI] Pansear (1) is considering using Focus Punch against Abc (0)...
+     + 15: function code modifier (against target)
+     + 30: damaging move (predicted damage 31 = 134% of target's HP)
+     + 10: predicted to KO the target
+[AI] Pansear (1) is considering using Acrobatics against Abc (0)...
+     + 26: damaging move (predicted damage 24 = 104% of target's HP)
+[AI] Move choices for Pansear (1):
+   *  24.1% to use Flame Burst (target 0): score 140
+   *   0.0% to use Yawn (target 0): score 115
+   *  75.9% to use Focus Punch (target 0): score 155
+   *   0.0% to use Acrobatics (target 0): score 126
+   => will use Focus Punch (target 0)
+
+[Round order] Abc (0), the opposing Pansear (1)
+
+"The opposing Pansear is tightening its focus!"
+[Use move] Abc (0) used Quick Attack
+"Abc used Quick Attack!"
+[HP change] The opposing Pansear lost 3 HP (35 -> 32)
+[Use move] The opposing Pansear (1) used Focus Punch
+"The opposing Pansear lost its focus and couldn't move!"
+[Move failed] In function code FailsIfUserDamagedThisTurn's def pbMoveFailed?
+
+[End of round 8]
+
+===== Round 9 =====
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Beauty Sunny!"
+"Beauty Sunny sent out Phanpy!"
+"Go! Abc!"
+[Round order] Abc (0), the opposing Phanpy (1)
+
+===== Round 1 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 16: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  8: lowering the target's Attack by 2
+     + 42: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *   4.8% to use Rock Tomb (target 0): score 123
+   *  95.2% to use Charm (target 0): score 142
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Pound
+"Abc used Pound!"
+[HP change] The opposing Phanpy lost 7 HP (52 -> 45)
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (0 -> -2)
+"Abc's Attack harshly fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 14: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  4: lowering the target's Attack by 2
+     + 35: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *  20.8% to use Rock Tomb (target 0): score 121
+   *  79.2% to use Charm (target 0): score 135
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Pound
+"Abc used Pound!"
+[HP change] The opposing Phanpy lost 3 HP (45 -> 42)
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (-2 -> -4)
+"Abc's Attack harshly fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 13: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  2: lowering the target's Attack by 2
+     + 21: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   7.1% to use Stomping Tantrum (target 0): score 107
+   *  14.3% to use Ice Shard (target 0): score 110
+   *  38.1% to use Rock Tomb (target 0): score 120
+   *  40.5% to use Charm (target 0): score 121
+   => will use Ice Shard (target 0)
+
+[Round order] The opposing Phanpy (1), Abc (0)
+
+[Use move] The opposing Phanpy (1) used Ice Shard
+"The opposing Phanpy used Ice Shard!"
+[HP change] Abc lost 18 HP (41 -> 23)
+"It's super effective!"
+[Use move] Abc (0) used Mega Drain
+"Abc used Mega Drain!"
+[HP change] The opposing Phanpy lost 36 HP (42 -> 6)
+"It's super effective!"
+[HP change] The opposing Phanpy gained 20 HP (6 -> 26)
+"The opposing Phanpy restored its health using its Berry Juice!"
+[Item consumed] The opposing Phanpy consumed its held Berry Juice
+"The opposing Phanpy had its energy drained!"
+[HP change] Abc gained 18 HP (23 -> 41)
+
+[End of round 3]
+
+===== Round 4 =====
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Beauty Sunny!"
+"Beauty Sunny sent out Phanpy!"
+"Go! Abc!"
+[Round order] Abc (0), the opposing Phanpy (1)
+
+===== Round 1 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 16: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  8: lowering the target's Attack by 2
+     + 42: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *   4.8% to use Rock Tomb (target 0): score 123
+   *  95.2% to use Charm (target 0): score 142
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Mega Drain
+"Abc used Mega Drain!"
+[HP change] The opposing Phanpy lost 35 HP (52 -> 17)
+"It's super effective!"
+[HP change] The opposing Phanpy gained 20 HP (17 -> 37)
+"The opposing Phanpy restored its health using its Berry Juice!"
+[Item consumed] The opposing Phanpy consumed its held Berry Juice
+"The opposing Phanpy had its energy drained!"
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (0 -> -2)
+"Abc's Attack harshly fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 12: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  4: lowering the target's Attack by 2
+     + 31: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *  26.9% to use Rock Tomb (target 0): score 119
+   *  73.1% to use Charm (target 0): score 131
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Pound
+"Abc used Pound!"
+[HP change] The opposing Phanpy lost 4 HP (37 -> 33)
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (-2 -> -4)
+"Abc's Attack harshly fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 11: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  2: lowering the target's Attack by 2
+     + 17: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *  12.5% to use Stomping Tantrum (target 0): score 107
+   *  18.8% to use Ice Shard (target 0): score 110
+   *  35.4% to use Rock Tomb (target 0): score 118
+   *  33.3% to use Charm (target 0): score 117
+   => will use Ice Shard (target 0)
+
+[Round order] The opposing Phanpy (1), Abc (0)
+
+[Use move] The opposing Phanpy (1) used Ice Shard
+"The opposing Phanpy used Ice Shard!"
+[HP change] Abc lost 23 HP (41 -> 18)
+"A critical hit!"
+"It's super effective!"
+[Use move] Abc (0) used Mega Drain
+"Abc used Mega Drain!"
+[HP change] The opposing Phanpy lost 31 HP (33 -> 2)
+"It's super effective!"
+"The opposing Phanpy had its energy drained!"
+[HP change] Abc gained 16 HP (18 -> 34)
+
+[End of round 3]
+
+===== Round 4 =====
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Beauty Sunny!"
+"Beauty Sunny sent out Phanpy!"
+"Go! Abc!"
+[Round order] Abc (0), the opposing Phanpy (1)
+
+===== Round 1 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 16: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  8: lowering the target's Attack by 2
+     + 42: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *   4.8% to use Rock Tomb (target 0): score 123
+   *  95.2% to use Charm (target 0): score 142
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Pound
+"Abc used Pound!"
+[HP change] The opposing Phanpy lost 6 HP (52 -> 46)
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (0 -> -2)
+"Abc's Attack harshly fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 14: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  4: lowering the target's Attack by 2
+     + 35: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *  20.8% to use Rock Tomb (target 0): score 121
+   *  79.2% to use Charm (target 0): score 135
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Pound
+"Abc used Pound!"
+[HP change] The opposing Phanpy lost 4 HP (46 -> 42)
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (-2 -> -4)
+"Abc's Attack harshly fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 13: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  2: lowering the target's Attack by 2
+     + 21: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   7.1% to use Stomping Tantrum (target 0): score 107
+   *  14.3% to use Ice Shard (target 0): score 110
+   *  38.1% to use Rock Tomb (target 0): score 120
+   *  40.5% to use Charm (target 0): score 121
+   => will use Rock Tomb (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Mega Drain
+"Abc used Mega Drain!"
+[HP change] The opposing Phanpy lost 31 HP (42 -> 11)
+"It's super effective!"
+[HP change] The opposing Phanpy gained 20 HP (11 -> 31)
+"The opposing Phanpy restored its health using its Berry Juice!"
+[Item consumed] The opposing Phanpy consumed its held Berry Juice
+"The opposing Phanpy had its energy drained!"
+[Use move] The opposing Phanpy (1) used Rock Tomb
+"The opposing Phanpy used Rock Tomb!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Phanpy's attack missed!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     + 14: damaging move (predicted damage 23 = 56% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 11: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  2: lowering the target's Attack by 2
+     + 16: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *  24.1% to use Stomping Tantrum (target 0): score 114
+   *  16.7% to use Ice Shard (target 0): score 110
+   *  31.5% to use Rock Tomb (target 0): score 118
+   *  27.8% to use Charm (target 0): score 116
+   => will use Rock Tomb (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Mega Drain
+"Abc used Mega Drain!"
+[HP change] The opposing Phanpy lost 31 HP (31 -> 0)
+"It's super effective!"
+"The opposing Phanpy fainted!"
+"The opposing Phanpy had its energy drained!"
+
+[End of round 4]
+"Beauty Sunny is about to send out Panpour. Will you switch your Pokémon?"
+"Beauty Sunny sent out Panpour!"
+
+===== Round 5 =====
+
+[AI] Panpour (1) is considering using Water Pulse against Abc (0)...
+     + 30: function code modifier (against target)
+     +  4: damaging move (predicted damage 7 = 17% of target's HP)
+[AI] Panpour (1) is considering using Icy Wind...
+     +  4: lowering the target's Speed by 1
+     + 16: function code modifier (against target)
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Panpour (1) is considering using Focus Punch against Abc (0)...
+     - 40: function code modifier (against target)
+     + 18: damaging move (predicted damage 31 = 75% of target's HP)
+[AI] Panpour (1) is considering using Acrobatics against Abc (0)...
+     + 14: damaging move (predicted damage 24 = 58% of target's HP)
+[AI] Move choices for Panpour (1):
+   *  63.3% to use Water Pulse (target 0): score 134
+   *  36.7% to use Icy Wind: score 126
+   *   0.0% to use Focus Punch (target 0): score 78
+   *   0.0% to use Acrobatics (target 0): score 114
+   => will use Icy Wind
+
+[Round order] Abc (0), the opposing Panpour (1)
+
+[Use move] Abc (0) used Mega Drain
+"Abc used Mega Drain!"
+[HP change] The opposing Panpour lost 26 HP (41 -> 15)
+"It's super effective!"
+[HP change] The opposing Panpour gained 10 HP (15 -> 25)
+"The opposing Panpour restored its health using its Sitrus Berry!"
+[Item consumed] The opposing Panpour consumed its held Sitrus Berry
+"The opposing Panpour had its energy drained!"
+[Use move] The opposing Panpour (1) used Icy Wind
+"The opposing Panpour used Icy Wind!"
+[HP change] Abc lost 16 HP (41 -> 25)
+"It's super effective!"
+[Stat change] Abc's Speed changed by -1 (0 -> -1)
+"Abc's Speed fell!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+[AI] Panpour (1) is considering using Water Pulse against Abc (0)...
+     + 22: function code modifier (against target)
+     +  7: damaging move (predicted damage 7 = 28% of target's HP)
+[AI] Panpour (1) is considering using Icy Wind...
+     lowering the target's Speed isn't worthwhile
+     + 18: damaging move (predicted damage 18 = 72% of target's HP)
+[AI] Panpour (1) is considering using Focus Punch against Abc (0)...
+     + 15: function code modifier (against target)
+     + 30: damaging move (predicted damage 31 = 124% of target's HP)
+     + 10: predicted to KO the target
+[AI] Panpour (1) is considering using Acrobatics against Abc (0)...
+     + 30: damaging move (predicted damage 46 = 184% of target's HP)
+     + 10: predicted to KO the target
+[AI] Move choices for Panpour (1):
+   *   0.0% to use Water Pulse (target 0): score 129
+   *   0.0% to use Icy Wind: score 118
+   *  75.9% to use Focus Punch (target 0): score 155
+   *  24.1% to use Acrobatics (target 0): score 140
+   => will use Focus Punch (target 0)
+
+[Round order] Abc (0), the opposing Panpour (1)
+
+"The opposing Panpour is tightening its focus!"
+[Use move] Abc (0) used Mega Drain
+"Abc used Mega Drain!"
+[HP change] The opposing Panpour lost 25 HP (25 -> 0)
+"It's super effective!"
+"The opposing Panpour fainted!"
+"The opposing Panpour had its energy drained!"
+[HP change] Abc gained 13 HP (25 -> 38)
+
+[End of round 6]
+"Beauty Sunny is about to send out Pancham. Will you switch your Pokémon?"
+"Abc, that's enough! Come back!"
+"You're in charge, Beedrill!"
+"Beauty Sunny sent out Pancham!"
+
+===== Round 7 =====
+
+[AI] Pancham (1) is considering using Brick Break against Beedrill (0)...
+     +  3: damaging move (predicted damage 6 = 12% of target's HP)
+[AI] Pancham (1) is considering using Aerial Ace against Beedrill (0)...
+     + 14: damaging move (predicted damage 28 = 58% of target's HP)
+[AI] Pancham (1) is considering using Thunder Punch against Beedrill (0)...
+     + 25: function code modifier (against target)
+     +  7: damaging move (predicted damage 15 = 31% of target's HP)
+[AI] Move choices for Pancham (1):
+   *   0.0% to use Brick Break (target 0): score 103
+   *   5.0% to use Aerial Ace (target 0): score 114
+   *  95.0% to use Thunder Punch (target 0): score 132
+   => will use Thunder Punch (target 0)
+
+[Round order] Beedrill (0), the opposing Pancham (1)
+
+[Use move] Beedrill (0) used Fury Attack
+"Beedrill used Fury Attack!"
+[HP change] The opposing Pancham lost 5 HP (44 -> 39)
+[HP change] The opposing Pancham lost 5 HP (39 -> 34)
+"Hit 2 times!"
+[Use move] The opposing Pancham (1) used Thunder Punch
+"The opposing Pancham used Thunder Punch!"
+[HP change] Beedrill lost 13 HP (48 -> 35)
+
+[End of round 7]
+
+===== Round 8 =====
+
+[AI] Pancham (1) is considering using Brick Break against Beedrill (0)...
+     +  4: damaging move (predicted damage 6 = 17% of target's HP)
+[AI] Pancham (1) is considering using Aerial Ace against Beedrill (0)...
+     + 20: damaging move (predicted damage 28 = 80% of target's HP)
+[AI] Pancham (1) is considering using Thunder Punch against Beedrill (0)...
+     + 25: function code modifier (against target)
+     + 10: damaging move (predicted damage 15 = 42% of target's HP)
+[AI] Move choices for Pancham (1):
+   *   0.0% to use Brick Break (target 0): score 104
+   *  17.4% to use Aerial Ace (target 0): score 120
+   *  82.6% to use Thunder Punch (target 0): score 135
+   => will use Aerial Ace (target 0)
+
+[Round order] Beedrill (0), the opposing Pancham (1)
+
+[Use move] Beedrill (0) used Fury Attack
+"Beedrill used Fury Attack!"
+[HP change] The opposing Pancham lost 4 HP (34 -> 30)
+[HP change] The opposing Pancham lost 5 HP (30 -> 25)
+[HP change] The opposing Pancham lost 5 HP (25 -> 20)
+"Hit 3 times!"
+[Use move] The opposing Pancham (1) used Aerial Ace
+"The opposing Pancham used Aerial Ace!"
+[HP change] Beedrill lost 28 HP (35 -> 7)
+[Midbattle Global] low HP music begins
+"It's super effective!"
+
+[End of round 8]
+
+===== Round 9 =====
+
+[AI] Pancham (1) is considering using Brick Break against Beedrill (0)...
+     + 21: damaging move (predicted damage 6 = 85% of target's HP)
+[AI] Pancham (1) is considering using Aerial Ace against Beedrill (0)...
+     + 30: damaging move (predicted damage 28 = 400% of target's HP)
+     + 10: predicted to KO the target
+[AI] Pancham (1) is considering using Thunder Punch against Beedrill (0)...
+     + 25: function code modifier (against target)
+     + 30: damaging move (predicted damage 15 = 214% of target's HP)
+     + 10: predicted to KO the target
+[AI] Move choices for Pancham (1):
+   *   0.0% to use Brick Break (target 0): score 121
+   *   0.0% to use Aerial Ace (target 0): score 140
+   * 100.0% to use Thunder Punch (target 0): score 165
+   => will use Thunder Punch (target 0)
+
+[Round order] Beedrill (0), the opposing Pancham (1)
+
+[Use move] Beedrill (0) used Bug Bite
+"Beedrill used Bug Bite!"
+[HP change] The opposing Pancham lost 20 HP (20 -> 0)
+"A critical hit!"
+"It's not very effective..."
+"The opposing Pancham fainted!"
+
+[End of round 9]
+"Beauty Sunny is about to send out Trumbeak. Will you switch your Pokémon?"
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Beauty Sunny!"
+"Beauty Sunny sent out Phanpy!"
+"Go! Abc!"
+[Round order] Abc (0), the opposing Phanpy (1)
+
+===== Round 1 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 16: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  8: lowering the target's Attack by 2
+     + 42: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *   4.8% to use Rock Tomb (target 0): score 123
+   *  95.2% to use Charm (target 0): score 142
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Pound
+"Abc is fast asleep."
+[Status continues] Abc's sleep count is 2
+[Move failed] Abc is asleep
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (0 -> -2)
+"Abc's Attack harshly fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 16: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  4: lowering the target's Attack by 2
+     + 38: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *  20.0% to use Rock Tomb (target 0): score 123
+   *  80.0% to use Charm (target 0): score 138
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Mega Drain
+"Abc is fast asleep."
+[Status continues] Abc's sleep count is 1
+[Move failed] Abc is asleep
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (-2 -> -4)
+"Abc's Attack harshly fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Beauty Sunny!"
+"Beauty Sunny sent out Phanpy!"
+"Go! Abc!"
+[Round order] Abc (0), the opposing Phanpy (1)
+
+===== Round 1 =====
+
+[AI] Phanpy (1) is considering using Stomping Tantrum against Abc (0)...
+     +  7: damaging move (predicted damage 12 = 29% of target's HP)
+[AI] Phanpy (1) is considering using Ice Shard against Abc (0)...
+     + 10: damaging move (predicted damage 18 = 43% of target's HP)
+[AI] Phanpy (1) is considering using Rock Tomb against Abc (0)...
+     +  4: lowering the target's Speed by 1
+     + 16: function code modifier (against target)
+     +  7: damaging move (predicted damage 13 = 31% of target's HP)
+[AI] Phanpy (1) is considering using Charm against Abc (0)...
+     +  8: lowering the target's Attack by 2
+     + 42: function code modifier (against target)
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Stomping Tantrum (target 0): score 107
+   *   0.0% to use Ice Shard (target 0): score 110
+   *   4.8% to use Rock Tomb (target 0): score 123
+   *  95.2% to use Charm (target 0): score 142
+   => will use Charm (target 0)
+
+[Round order] Abc (0), the opposing Phanpy (1)
+
+[Use move] Abc (0) used Pound
+"Abc used Pound!"
+[HP change] The opposing Phanpy lost 7 HP (52 -> 45)
+[Use move] The opposing Phanpy (1) used Charm
+"The opposing Phanpy used Charm!"
+[Stat change] Abc's Attack changed by -2 (0 -> -2)
+"Abc's Attack harshly fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
