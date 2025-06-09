@@ -441,3 +441,6 @@ Name = Parasaura Forest Depths
 Outdoor = true
 BattleBack = forest
 Environment = ForestGrass
+#-------------------------------
+[100]   # before bridge
+Name = before bridge
