@@ -153,7 +153,7 @@ BattleBack = field
 MapSize = 2,1101
 #-------------------------------
 [033]   # Vira Town
-Name = Primodia Town
+Name = Sanctuary Town
 Outdoor = true
 ShowArea = true
 #-------------------------------
@@ -412,7 +412,7 @@ MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
 [076]   # Forest Town
-Name = Bariony Town
+Name = Woodpecker Village
 Outdoor = true
 ShowArea = true
 BattleBack = forest
@@ -423,11 +423,21 @@ Name = Starter Collection Center
 ShowArea = true
 #-------------------------------
 [085]   # Forest
-Name = Parasaura Forest
+Name = Meerkat Forest
 Outdoor = true
 ShowArea = true
 BattleBack = forest
 Environment = ForestGrass
+#-------------------------------
+[088]   # Zoo Town
+Name = Piranha Town
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[089]   # Zoo
+Name = Spielberg Zoo
+Outdoor = true
+ShowArea = true
 #-------------------------------
 [090]   # Clearing
 Name = Base Entrance
@@ -443,4 +453,36 @@ BattleBack = forest
 Environment = ForestGrass
 #-------------------------------
 [100]   # before bridge
-Name = before bridge
+Name = Route 2
+Outdoor = true
+ShowArea = true
+BattleBack = field
+#-------------------------------
+[101]   # River Bridge
+Name = Route 3
+Outdoor = true
+ShowArea = true
+BattleBack = field
+Environment = TallGrass
+#-------------------------------
+[102]   # Parallel Hill Town
+Name = Camel City
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[103]   # Cave 1f
+Name = Cave 1f
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[104]   # Ice Room
+Name = Ice Room
+BattleBack = cave2
+Environment = Ice
+#-------------------------------
+[105]   # Cave b1f
+Name = Cave b1f
+BattleBack = cave1
+#-------------------------------
+[114]   # Terrace
+Outdoor = true

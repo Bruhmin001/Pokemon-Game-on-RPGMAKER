@@ -5,3 +5,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A Letter signed by your parents, Essential to start your journey.
+#------------------------------------------------
+[INSIGNIA]
+Name = Raval Insignia
+NamePlural = Raval Insignias
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = An insignia from Raval Corp's CEO. Grants access to their office

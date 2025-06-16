@@ -42,15 +42,15 @@
 69,North,0,66,South,10
 # Forest (85) - Forest Town (76)
 85,South,5,76,North,0
-# Zoo Town (88) - River Bridge (101)
-88,South,11,101,North,0
-# before bridge (100) - River Bridge (101)
-100,West,44,101,East,0
-# Parallel Hill Town (102) - River Bridge (101)
-102,North,14,101,South,0
-# before bridge (100) - Zoo Town (88)
-100,West,4,88,East,0
+# before bridge (100) - Parallel Hill Town (102)
+100,South,0,102,North,68
+# River Bridge (101) - Parallel Hill Town (102)
+101,South,0,102,North,14
+# Zoo Town (88) - before bridge (100)
+88,East,0,100,West,4
+# River Bridge (101) - before bridge (100)
+101,East,0,100,West,44
+# River Bridge (101) - Zoo Town (88)
+101,North,0,88,South,11
 # Zoo (89) - Zoo Town (88)
 89,South,0,88,North,41
-# Parallel Hill Town (102) - before bridge (100)
-102,North,68,100,South,0

@@ -1535,7 +1535,7 @@ Habitat = RoughTerrain
 Category = Metalsmith
 Pokedex = It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.
 Generation = 9
-Evolutions = TINKATUFF,Level,24
+Evolutions = TINKATUFF,Level,20
 #-------------------------------
 [TINKATUFF]
 Name = Tinkatuff
@@ -2925,7 +2925,7 @@ Habitat = Forest
 Category = Candy Apple
 Pokedex = The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.
 Generation = 9
-Evolutions = HYDRAPPLE,HasMove,DRAGONCHEER
+Evolutions = HYDRAPPLE,Level,42
 #-------------------------------
 [POLTCHAGEIST]
 Name = Poltchageist

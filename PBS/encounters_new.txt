@@ -20,38 +20,88 @@ LandNight,21
 #-------------------------------
 [085] # Forest
 Land,15
-    15,RIOLU,10,13
-    15,WURMPLE,10,13
     15,CUTIEFLY,10,13
     15,MANKEY,10,13
     15,PUMPKABOO,10,13
+    15,RIOLU,10,13
+    15,WURMPLE,10,13
     8,TAILLOW,10,13
     7,RALTS,10,13
 LandNight,21
-    15,RIOLU,10,13
-    15,WURMPLE,10,13
     15,CUTIEFLY,10,13
     15,MANKEY,10,13
     15,PUMPKABOO,10,13
+    15,RIOLU,10,13
+    15,WURMPLE,10,13
     8,TAILLOW,10,13
     7,RALTS,10,13
 #-------------------------------
-[090]   # Clearing
+[090] # Clearing
 Land,21
-    14,YANMA,10,13
-    14,JOLTIK,10,13
-    14,HOUNDOUR,10,13
-    14,PHANPY,10,13
-    14,LOTAD,10,13
-    14,SWINUB,10,13
     14,ELECTRIKE,10,13
-    2,BAGON,10,13	
+    14,HOUNDOUR,10,13
+    10,JOLTIK,10,13
+    14,LOTAD,10,13
+    14,PHANPY,10,13
+    14,SWINUB,10,13
+    10,YANMA,10,13
+    10,BAGON,10,13
 LandNight,21
-    14,YANMA,10,13
-    14,JOLTIK,10,13
-    14,HOUNDOUR,10,13
-    14,PHANPY,10,13
-    14,LOTAD,10,13
-    14,SWINUB,10,13
     14,ELECTRIKE,10,13
-    2,BAGON,10,13
+    14,HOUNDOUR,10,13
+    10,JOLTIK,10,13
+    14,LOTAD,10,13
+    14,PHANPY,10,13
+    14,SWINUB,10,13
+    10,YANMA,10,13
+    10,BAGON,10,13
+#-------------------------------
+[100] # before bridge
+Land,21
+    10,EKANS,17,19
+    15,HELIOPTILE,17,19
+    15,STARAVIA,17,20
+    10,KADABRA,18,20
+    10,SKIDDO,16,19
+    10,STUNKY,16,19
+    10,TEDDIURSA,17,20
+    10,TINKATINK,18,20
+    10,DEINO,16,21
+#-------------------------------
+[101] # River Bridge
+Land,21
+    22,SHELLOS,17,19
+    22,GRIMER_1,17,19
+    22,CLOBBOPUS,17,20
+    22,ODDISH,18,20
+    12,DRILBUR,16,19
+#-------------------------------
+[103] # Cave 1f
+Cave,5
+    22,TRAPINCH,17,19
+    22,YAMASK_1,17,19
+    22,GEODUDE_1,17,20
+    22,ZUBAT,18,20
+    12,CLEFFA,16,19
+#-------------------------------
+[104] # Ice Room
+Cave,5
+    18,SANDSHREW_1,17,19
+    18,SNEASEL,17,19
+    18,EISCUE,17,20
+    18,DARUMAKA_2,18,20
+    18,WOOBAT,16,19
+    10,FRIGIBAX,16,19
+#-------------------------------
+[105] # Cave b1f
+Cave,5
+    30,TORKOAL,17,19
+    30,PARAS,17,19
+    30,MACHOP,17,20
+    10,GIBLE,18,20
+#-------------------------------
+[088] # Zoo Town
+OldRod
+    40,MAGIKARP,7,10
+    30,CARVANHA,9,15
+    30,FRILLISH,9,15

@@ -37,8 +37,8 @@ LoseText = ...
 Pokemon = YANMA,13
     Moves = SILVERWIND,SONICBOOM,AIRCUTTER
 #-------------------------------
-[COOLTRAINER_M,Pierre]
-LoseText = ...
+[ACETRAINER,Pierre]
+LoseText = ?
 Pokemon = KRICKETUNE,15
     Moves = ROCKSMASH,FURYCUTTER,SWAGGER
     AbilityIndex = 2
@@ -62,7 +62,7 @@ Pokemon = CROAGUNK,14
     IV = 20,20,20,20,20,20
 Pokemon = VULPIX,14
     Moves = EMBER,HYPNOSIS,BABYDOLLEYES
-    AbilityIndex = 2
+    AbilityIndex = 1
     Gender = female
     Item = HEATROCK
     IV = 20,20,20,20,20,20
@@ -147,6 +147,148 @@ Pokemon = PANSEAR,15
     AbilityIndex = 0
     Item = SITRUSBERRY
     Gender = male
-
-	
-	
+#-------------------------------
+[ACETRAINER,Oliver]
+LoseText = ?
+Pokemon = FERROSEED,20
+    Item = EVIOLITE
+    Ability = IRONBARBS
+    Nature = BOLD
+    Moves = SPIKES,METALCLAW,SEEDBOMB,THUNDERWAVE
+Pokemon = GABITE,20
+    Item = YACHEBERRY
+    Ability = ROUGHSKIN
+    Nature = ADAMANT
+    Moves = BREAKINGSWIPE,STEALTHROCK,SCORCHINGSANDS
+Pokemon = STANTLER,20
+    Item = LEFTOVERS
+    Ability = INTIMIDATE
+    Nature = ADAMANT
+    Moves = PSYSHIELDBASH,CONFIDE,SIGNALBEAM
+Pokemon = MAGCARGO,21
+    Item = LIFEORB
+    Ability = FLAMEBODY
+    Nature = MODEST
+    Moves = WILLOWISP,POWERGEM,SHELLSMASH,FLAMETHROWER
+#-------------------------------
+[HIKER,Mike]
+LoseText = Adios
+Pokemon = DWEBBLE,21
+    Item = CHOICEBAND
+    Ability = STURDY
+    Nature = ADAMANT
+    Moves = ROCKWRECKER
+Pokemon = MIGHTYENA,21
+    Item = CHOICEBAND
+    Ability = MOXIE
+    Nature = ADAMANT
+    Moves = GIGAIMPACT
+Pokemon = VILEPLUME,21
+    Item = CHOICESPECS
+    Ability = EFFECTSPORE
+    Nature = MODEST
+    Moves = SOLARBEAM
+#-------------------------------	
+[ACETRAINER,Kimi]
+LoseText = Fine you may enter the cave
+Pokemon = AZUMARILL,20
+    Item = MYSTICWATER
+    Ability = HUGEPOWER
+    Nature = SERIOUS
+    Moves = AQUAJET,ICEBEAM,ALLURINGVOICE
+Pokemon = FEAROW,20
+    Ability = SNIPER
+    Nature = SERIOUS
+    Moves = QUICKATTACK,DRILLPECK
+Pokemon = ELDEGOSS,20
+    Item = LEFTOVERS
+    Ability = COTTONDOWN
+    Nature = SERIOUS
+    Moves = GIGADRAIN,SLEEPPOWDER,POLLENPUFF,HYPERBEAM	
+#-------------------------------	
+[CAMPER,Elliot]
+LoseText = Ugh, how did you beat me
+Pokemon = PARASECT,21
+Pokemon = MACHOP,18
+Pokemon = YAMASK_1,19
+Pokemon = EISCUE,21
+#-------------------------------	
+[FISHERMAN,Duke]
+LoseText = That was Fishy
+Pokemon = SHELLOS,21
+Pokemon = PSYDUCK,20
+Pokemon = DEWOTT,18
+Pokemon = CLOBBOPUS,19
+#-------------------------------	
+[LASS,Pauline]
+LoseText = Oh no
+Pokemon = TINKATUFF,21
+Pokemon = TEDDIURSA,18
+Pokemon = SKIDDO,19
+Pokemon = CLEFABLE,20
+#-------------------------------	
+[BIRDKEEPER,Toby]
+LoseText = Dont forget to like , comment and subscribe
+Pokemon = FEAROW,21
+Pokemon = STARAVIA,20
+Pokemon = GOLBAT,20
+Pokemon = FLETCHINDER,21
+Pokemon = PIDGEOTTO,21
+#-------------------------------	
+[BUGCATCHER,Chad]
+LoseText = No my Collection
+Pokemon = JOLTIK,21
+Pokemon = BEAUTIFLY,20
+Pokemon = KRICKETUNE,20
+Pokemon = YANMA,20
+Pokemon = NINJASK,21
+Pokemon = SHEDINJA,20
+#-------------------------------	
+[AROMALADY,Jessica]
+LoseText = Doesnt smell the best in here
+Pokemon = ODDISH,18
+Pokemon = GLOOM,21
+Pokemon = VILEPLUME,21
+Pokemon = BELLOSSOM,21
+#-------------------------------	
+[BIKER,David]
+LoseText = I wasnt so quick it seems
+Pokemon = VAROOM,20
+Pokemon = MIENFOO,21
+Pokemon = STANTLER,18
+#-------------------------------	
+[GENTLEMAN,Bernie]
+LoseText = That was embarrassing to say the least
+Pokemon = GROWLITHE,20
+Pokemon = ROCKRUFF,21
+Pokemon = KLEFKI,18
+#-------------------------------	
+[CHANNELER,Margret]
+LoseText = My ghosts are dead again
+Pokemon = PHANTUMP,20
+Pokemon = GASTLY,21
+Pokemon = LAMPENT,18
+#-------------------------------	
+[GAMBLER,John]
+LoseText = Guess I lost
+Pokemon = BRONZOR,20
+Pokemon = VOLTORB,21
+    Moves = EXPLOSION,SHOCKWAVE
+Pokemon = DIGLETT,21
+    Ability = ARENATRAP
+    Moves = FISSURE
+#-------------------------------	
+[ACETRAINER,Viktor]
+LoseText = No wonder the CEO recommended you
+Pokemon = BRELOOM,19
+    Ability = TECHNICIAN
+    Shiny = true
+    Moves = MACHPUNCH,WAKEUPSLAP,SPORE,AERIALACE
+Pokemon = PORYGON,21
+    Item = SITRUSBERRY
+    Ability = DOWNLOAD
+    Moves = TRIATTACK,SHOCKWAVE,ICYWIND,SHADOWBALL
+Pokemon = ARCANINE,18
+    Item = LUMBERRY
+    Ability = INTIMIDATE
+    Moves = DRAGONRAGE,EXTREMESPEED,BURNUP

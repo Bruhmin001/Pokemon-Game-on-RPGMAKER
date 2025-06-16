@@ -3795,7 +3795,7 @@ Description = A candy packed with energy. When consumed, it will grant a Pokémo
 Name = Rare Candy
 NamePlural = Rare Candies
 Pocket = 2
-Price = 10000
+Price = 10
 BPPrice = 20
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -4439,9 +4439,9 @@ Pocket = 4
 Price = 2000
 BPPrice = 32
 FieldUse = TM
-Flags = Fling_10
-Move = SANDSTORM
-Description = A five-turn sandstorm is summoned to hurt all combatants except Rock, Ground, and Steel types.
+Flags = Fling_70
+Move = FREEZEDRY
+Description = The user rapidly cools the target. This may freeze the target. Is super-effective on Water types.
 #-------------------------------
 [TM38]
 Name = TM38
@@ -4528,8 +4528,8 @@ Price = 3000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_10
-Move = ATTRACT
-Description = If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.
+Move = BODYSLAM
+Description = he user drops onto the target with its full body weight. It may leave the target with paralysis.
 #-------------------------------
 [TM46]
 Name = TM46
