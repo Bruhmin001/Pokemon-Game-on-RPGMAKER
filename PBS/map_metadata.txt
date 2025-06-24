@@ -248,6 +248,7 @@ Environment = Rock
 Name = Route 1
 Outdoor = true
 ShowArea = true
+BattleBack = field
 #-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
@@ -411,7 +412,7 @@ Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
-[076]   # Forest Town
+[076]   # Woodpecker Village
 Name = Woodpecker Village
 Outdoor = true
 ShowArea = true
@@ -422,14 +423,14 @@ Environment = ForestGrass
 Name = Starter Collection Center
 ShowArea = true
 #-------------------------------
-[085]   # Forest
+[085]   # Meerkat Forest
 Name = Meerkat Forest
 Outdoor = true
 ShowArea = true
 BattleBack = forest
 Environment = ForestGrass
 #-------------------------------
-[088]   # Zoo Town
+[088]   # Piranha Town
 Name = Piranha Town
 Outdoor = true
 ShowArea = true
@@ -465,7 +466,7 @@ ShowArea = true
 BattleBack = field
 Environment = TallGrass
 #-------------------------------
-[102]   # Parallel Hill Town
+[102]   # Camel City
 Name = Camel City
 Outdoor = true
 ShowArea = true
@@ -485,4 +486,5 @@ Name = Cave b1f
 BattleBack = cave1
 #-------------------------------
 [114]   # Terrace
+Name = Terrace
 Outdoor = true
